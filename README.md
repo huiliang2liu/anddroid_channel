@@ -7,9 +7,12 @@ V2meituan为v2多渠道打包实现
 
 V1360为v1多渠道打包
         利用zip文件添加comment
+        
 V1meituan为v1多渠道打包
         往zip包中添加目录META-INF/channel_渠道
+        
 V1meituan1为v1多渠道打包
         往zip包中添加目录META-INF/channel，然后将渠道信息写在这个文件中
+        
 Manifest为v1多渠道打包
         往AndroidManifest.xml文件中写入渠道信息在application节点下面添加meta-data节点
